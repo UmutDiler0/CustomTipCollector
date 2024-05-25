@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomTipCollector</string>
+    <string name="bill">Bill Amount</string>
+    <string name="percent">Tip Percent</string>
+</resources>
